@@ -2,10 +2,9 @@
     $activePage = basename($_SERVER['PHP_SELF'], ".php");
 ?>
 
-<!--<div class="preloader">
+<div class="preloader">
         <img class="preloader__image" width="60" src="assets/images/logo7.png" alt="" />
     </div>
--->
 <header class="main-header main-header--one  clearfix">
             <div class="main-header--one__wrapper">
                 <div class="auto-container">
