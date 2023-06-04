@@ -12,7 +12,7 @@
 
                         <div class="main-header--one__left">
                             <div class="logo">
-                                <a href="index.php" style="background: rgb(255 255 255 / 90%); padding:10px"><img src="assets/images/logo6.png" alt="" width="200"/></a>
+                                <a href="index.php" style="padding:10px"><img src="assets/images/logo6.png" alt="" width="200"/></a>
                             </div>
                         </div>
 
@@ -21,7 +21,7 @@
                             <div class="main-menu__inner">
                                 <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                 <div class="stricky-one-logo">
-                                    <div class="logo"  style="background: rgb(255 255 255 / 90%);">
+                                    <div class="logo"  style="padding: 10px">
                                         <a href="index.php" style="padding:10px"><img src="assets/images/logo6.png" alt="" width="200"/></a>
                                     </div>
                                 </div>
@@ -87,7 +87,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/logo6.png" style="background: white; padding: 10px;"
+                <a href="index.html" aria-label="logo image"><img src="assets/images/logo6.png" style=" padding: 10px;"
                         width="155" alt="" /></a>
             </div>
             <!-- /.logo-box -->
