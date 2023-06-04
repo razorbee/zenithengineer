@@ -72,16 +72,15 @@
                                         <div class="footer-widget__column footer-widget__quick-links">
                                             <h2 class="footer-widget__title">Quick Links</h2>
                                             <ul class="footer-widget__quick-links-list">
-                                                <li class="footer-widget__quick-links-list-item"><a
-                                                        href="contact.html">Contact us</a></li>
-                                                <li class="footer-widget__quick-links-list-item"><a
-                                                        href="team.html">Member</a></li>
-                                                <li class="footer-widget__quick-links-list-item"><a
-                                                        href="protfolio.html">Our Project</a></li>
-                                                <li class="footer-widget__quick-links-list-item"><a
-                                                        href="about.html">About Company</a></li>
-                                                <li class="footer-widget__quick-links-list-item"><a
-                                                        href="blog.html">News Update</a></li>
+                                                <li class="footer-widget__quick-links-list-item"><a href="index.php">Home</a></li>
+                                                <li class="footer-widget__quick-links-list-item"><a   href="index.php#aboutus">About</a></li>
+                                                <li class="footer-widget__quick-links-list-item"><a  href="index.php#product">Product</a></li>
+                                                <li class="footer-widget__quick-links-list-item"> <a  href="decor.php">Decor</a></li>
+                                                <li class="footer-widget__quick-links-list-item"> <a  href="application.php">Application</a></li>
+                                                <li class="footer-widget__quick-links-list-item"> <a href="specification.php">Specification</a></li>
+                                                <li class="footer-widget__quick-links-list-item"><a href="index.php#contactus">Contact</a></li>
+
+
                                             </ul>
                                         </div>
                                     </div>
