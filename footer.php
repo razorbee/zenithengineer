@@ -35,7 +35,7 @@
 </a>
 
 
-<div class="footer1">    <marquee>we have taken dealership of prokladhpl.com.</marquee>
+<div class="footer1">    <marquee>We are authorized distributors for PROKLAD & ALFA HPL SHEETS &  WPC LOUVERS....</marquee>
 </div>
 
 

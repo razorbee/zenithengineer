@@ -12,7 +12,7 @@
 
                         <div class="main-header--one__left">
                             <div class="logo">
-                                <a href="index.php" style="padding:10px"><img src="assets/images/logo6.png" alt="" width="200"/></a>
+                                <a href="index.php" style="padding:10px"><img src="assets/images/logo8.png" alt="" width="200"/></a>
                             </div>
                         </div>
 
@@ -22,7 +22,7 @@
                                 <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                 <div class="stricky-one-logo">
                                     <div class="logo"  style="padding: 10px">
-                                        <a href="index.php" style="padding:10px"><img src="assets/images/logo6.png" alt="" width="200"/></a>
+                                        <a href="index.php" style="padding:10px"><img src="assets/images/logo8.png" alt="" width="200"/></a>
                                     </div>
                                 </div>
  

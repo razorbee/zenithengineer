@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home One || Alori || Responsive HTML5 Template.</title>
+    <title>Zenith Engineers</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -213,12 +213,12 @@
                             <div class="shape1 zoom-fade"><img src="assets/images/shapes/about-v1-shape1.png" alt="" />
                             </div>
                             <div class="about-one__img1">
-                                <img src="assets/images/about/about-v1-img1.jpg" alt="" />
+                                <img src="assets/images/pkland.jpg" alt=""   style="width: 100%;"/>
                             </div>
 
                             <div class="about-one__img2">
                                 
-                                <img src="assets/images/about/about-v1-img2.jpg" alt="" />
+                                <img src="assets/images/about/about-v1-img1.jpg" alt=""  style="width: 100%;" />
                             </div>
                         </div>
                     </div>
@@ -235,15 +235,12 @@
                             </div>
 
                             <div class="about-one__content-text" style="text-align: justify;">
-                                <p>Zenith Engineers established in the year 2012 as a Interior vendor in Construction Industdy. We have been rendering the Interior and Exterior services for major Multi Narional Companies for more than a decade. We have been awarded mutiple Interior and Exterior Projects repeatedly by our esteemed clients like Titan Industries, L&T Ltd Constructions, Honda Motor Cycles and Scooters India Pvt Ltd, Volvo, AFDC and Indo
+                                <p>Zenith Engineers established in the year 2012 as a Interior vendor in Construction Industry. We have been rendering the Interior and Exterior services for major Multi National Companies for more than a decade. We have been awarded mutiple Interior and Exterior Projects repeatedly by our esteemed clients like Titan Industries, L&T Ltd Constructions, Honda Motor Cycles and Scooters India Pvt Ltd, Volvo, AFDC and Indo Nissin etc.<br/>
+We are committed to uncompromised quality services and Client friendly relationships which have earned us their trust, reliability and faith. These are our strength which makes us, bind with our client for a longer business relationship.
+We have executed projects across India in major Cities like Bangalore, Hosur, Coimbatore, Kolkata, Gadag and Koppal etc.<br/>
 
-                                    Nissin etc.<br/>
-                                    
-                                    We are committed to uncompromised quality services and Client friendly relationships which have earned us their trust, reliability and faith. These are our strength which makes us, bind with our client for a longer business relationship.<br/>
-                                    
-                                    We have executed projects across India in major Cities like Bangalore, Hosur, Coimbatore, Kolkata, Gadag and Koppal etc.<br/>
-                                    
-                                    Currently we have added an additional venture of HPL decor sheets supply for Interior and Exterior Projects. We are the authorized distributors of Proklad HPL for entire Bangalore and Hosur Cities. </p>
+Currently we have added an additional venture of HPL decor sheets and WPC Louvers supply for Interior and Exterior Projects. <br/>
+We are the authorized distributors of Proklad and Alfa HPL sheets and WPC Louvers for entire Bangalore and Hosur Cities </p>
                             </div>
 
                             
